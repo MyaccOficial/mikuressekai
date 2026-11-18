@@ -1,4 +1,6 @@
-# mikuresekai 0.0.10 - Custom Charts mod
+# REMEMBER: pelase extrack the builder.zip
+
+## mikuresekai 0.0.10 - Custom Charts mod
 In mikuresekai 0.0.10, we have a mod that allows users to create and play custom charts.
 
 **We host a quality-checked list of charts in our Discord! [https://discord.gg/UntitledCharts](https://discord.gg/UntitledCharts) (Channel: https://discord.com/channels/1402148910067224588/1556756878405533797)**
